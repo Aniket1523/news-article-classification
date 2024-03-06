@@ -4,3 +4,5 @@ numpy
 nltk
 textblob
 spacy
+matplotlib
+en_core_web_sm
